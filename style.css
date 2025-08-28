@@ -1,0 +1,5 @@
+:root { --primary: #0d6efd; }
+.navbar .nav-link.active { font-weight: 600; }
+.card-title { font-weight: 700; }
+#quizArea .card { border-left: 4px solid var(--primary); }
+pre { white-space: pre-wrap; word-break: break-word; }
